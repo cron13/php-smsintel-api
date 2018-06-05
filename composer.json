@@ -1,5 +1,5 @@
 {
-    "name": "seregazhuk/smsintel-api",
+    "name": "cron13/smsintel-api",
     "description": "A PHP wrapper for the SmsIntel api. Provides one interface for both XML and JSON API requests.",
     "keywords": [
         "php",
